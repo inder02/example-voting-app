@@ -23,7 +23,7 @@ jobs:
    runs-on: ubuntu-latest
 
    steps: 
-   - name: checkout code
+   - name: checkout code jnij
      uses: actions/checkout@v4
 
    - name: docker setup
